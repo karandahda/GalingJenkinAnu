@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xipt42WpVEWsNqDpyiaX7FwZXU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Engine" />
+      <module name="DemoProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Engine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="" />
+      <created>1581538980667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581538980667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4392" y="181" key="#Project_Structure" timestamp="1582143288527">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4392" y="181" key="#Project_Structure/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1582143288527" />
+    <state x="500" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581694003659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581611395186" />
+    <state x="500" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581694003659" />
+    <state x="4474" y="133" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582143171764">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581539495719" />
+    <state x="4474" y="133" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1582143171764" />
+    <state x="571" y="305" width="394" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581606211622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="305" width="394" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581606211622" />
+    <state x="550" y="134" key="FileChooserDialogImpl" timestamp="1582312085496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581602658580" />
+    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582312085496" />
+    <state width="1493" height="401" key="GridCell.Tab.0.bottom" timestamp="1582220997744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="401" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582220997744" />
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581709618377" />
+    <state width="1493" height="401" key="GridCell.Tab.0.center" timestamp="1582220997744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="401" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582220997744" />
+    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581709618377" />
+    <state width="1493" height="401" key="GridCell.Tab.0.left" timestamp="1582220997744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="401" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582220997744" />
+    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581709618377" />
+    <state width="1493" height="401" key="GridCell.Tab.0.right" timestamp="1582220997744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="401" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582220997744" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581709618377" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1581616628280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581616628280" />
+    <state x="155" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1582312067529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="155" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582139718882" />
+    <state x="4034" y="347" key="com.intellij.ide.util.TipDialog/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1581538986730" />
+    <state x="155" y="275" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582312067529" />
+    <state x="3983" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1581608931525">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3983" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581608931525" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.ComputerDatabase",
+  "simulationId": "computerdatabase",
+  "start": 1582216156534,
+  "description": "",
+  "scenarios": ["Computer DB - New computer Creation"],
+  "assertions": [
+
+  ]
+}
