@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="" />
+    <list default="true" id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/basic/ComputerDatabase.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/basic/ComputerDatabase.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/basic/SetUpUserLoadClosedSystem.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/basic/SetUpUserLoadClosedSystem.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Engine$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Engine$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/IDEPathHelper$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/IDEPathHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Recorder$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Recorder$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Recorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/AddPauseTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/BasicLoadSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CheckResponseBodyAndExtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CheckResponseCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CodeReuseWithObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/ComputerDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CsvFeeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CsvFeederToCustomFeeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CustomFeeder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/CustomFeeder_Extended.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/FixDurationLoadSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/RampUserCodeSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/RuntimeParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/RuntimeParameters_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basic/VideoGameAllOperations.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +41,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Xipt42WpVEWsNqDpyiaX7FwZXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />

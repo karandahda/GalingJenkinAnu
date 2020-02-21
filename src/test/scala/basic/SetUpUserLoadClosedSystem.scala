@@ -170,8 +170,8 @@ class SetUpUserLoadClosedSystem extends Simulation{
 
 
   setUp(
-    scenario1.inject(rampConcurrentUsers(0) to (6) during(10),constantConcurrentUsers(6) during(60 seconds)),
-    scenario2.inject(rampConcurrentUsers(0) to (4) during(10),constantConcurrentUsers(4) during(60 seconds))
+    scenario1.inject(rampConcurrentUsers(0) to (6) during(10),constantConcurrentUsers(6) during(30 seconds)),
+    scenario2.inject(rampConcurrentUsers(0) to (4) during(10),constantConcurrentUsers(4) during(30 seconds))
   ).protocols(httpProtocol)
 
 

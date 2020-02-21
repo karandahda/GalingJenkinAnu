@@ -14,12 +14,12 @@ class ComputerDatabase extends Simulation{
   //scenario definition
 
   def launchComputerDatabaseApp(): ChainBuilder ={
-    exec(http("00_Launch")
+    exec(http("00_Launch Application")
       .get("/")
       .check(status.is(200)))
       .pause(2)
   }
-  val scn = scenario("Computer DB - New computer Creation")
+  val scn = scenario("Computer DB - New computer Creation scearnio")
 
     .exec(launchComputerDatabaseApp())
 
