@@ -1,0 +1,10 @@
+{
+  "simulation": "com.simulations.gatling.ComputerDBAddRemove",
+  "simulationId": "computerdbaddremove",
+  "start": 1582651922854,
+  "description": "",
+  "scenarios": ["ComputerDBAddRemove"],
+  "assertions": [
+
+  ]
+}

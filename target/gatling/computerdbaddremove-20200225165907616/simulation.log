@@ -1,0 +1,10 @@
+RUN	com.simulations.gatling.ComputerDBAddRemove	computerdbaddremove	1582649947616	 	3.3.1
+USER	ComputerDBAddRemove	1	START	1582649949100	1582649949100
+REQUEST	1		00_Launch_ComputerDB	1582649949129	1582649949354	OK	 
+REQUEST	1		01_StartCreatingNewComputer	1582649959825	1582649960020	OK	 
+REQUEST	1		02_AddNewComputer	1582649970065	1582649970285	OK	 
+REQUEST	1		02_AddNewComputer Redirect 1	1582649970299	1582649970439	OK	 
+REQUEST	1		03_SearchComputer	1582649980446	1582649980649	KO	regex(<a href="/computers/(.*)">Laptop - Nqdpf</a>).find.exists, found nothing
+ERROR	04_OpenSearchedComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582649985655
+ERROR	05_DeleteComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582649989664
+USER	ComputerDBAddRemove	1	END	1582649949100	1582649989668

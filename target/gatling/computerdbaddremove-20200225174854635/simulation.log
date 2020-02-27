@@ -1,0 +1,10 @@
+RUN	com.simulations.gatling.ComputerDBAddRemove	computerdbaddremove	1582652934635	 	3.3.1
+USER	ComputerDBAddRemove	1	START	1582652935885	1582652935885
+REQUEST	1		00_Launch_ComputerDB	1582652935911	1582652936141	OK	 
+REQUEST	1		01_StartCreatingNewComputer	1582652936579	1582652936681	OK	 
+REQUEST	1		02_AddNewComputer	1582652936707	1582652936815	OK	 
+REQUEST	1		02_AddNewComputer Redirect 1	1582652936841	1582652936953	OK	 
+REQUEST	1		03_SearchComputer	1582652936970	1582652937432	KO	substring(Laptop - HAtAK).find.exists, found nothing
+ERROR	04_OpenSearchedComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582652937470
+ERROR	05_DeleteComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582652937470
+USER	ComputerDBAddRemove	1	END	1582652935885	1582652937474

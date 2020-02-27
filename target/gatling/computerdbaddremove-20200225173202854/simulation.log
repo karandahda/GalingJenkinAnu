@@ -1,0 +1,10 @@
+RUN	com.simulations.gatling.ComputerDBAddRemove	computerdbaddremove	1582651922854	 	3.3.1
+USER	ComputerDBAddRemove	1	START	1582651924106	1582651924106
+REQUEST	1		00_Launch_ComputerDB	1582651924134	1582651924348	OK	 
+REQUEST	1		01_StartCreatingNewComputer	1582651924802	1582651924917	OK	 
+REQUEST	1		02_AddNewComputer	1582651924965	1582651925064	OK	 
+REQUEST	1		02_AddNewComputer Redirect 1	1582651925074	1582651925183	OK	 
+REQUEST	1		03_SearchComputer	1582651925188	1582651925287	KO	substring(Laptop - Knzzx).find.exists, found nothing
+ERROR	04_OpenSearchedComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582651925330
+ERROR	05_DeleteComputer: Failed to build request: No attribute named 'ComputerId' is defined 	1582651925334
+USER	ComputerDBAddRemove	1	END	1582651924106	1582651925338
