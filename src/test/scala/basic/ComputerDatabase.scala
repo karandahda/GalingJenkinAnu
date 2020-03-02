@@ -5,6 +5,7 @@ import io.gatling.core.Predef._
 import io.gatling.core.structure.ChainBuilder
 import scala.concurrent.duration._
 
+
 class ComputerDatabase extends Simulation{
 
   //http definition
@@ -31,5 +32,8 @@ class ComputerDatabase extends Simulation{
       constantConcurrentUsers(2) during (30 seconds)
       // rampUsersPerSec(1) to(10) during(15)
     ).protocols(httpConfig.inferHtmlResources()))
+  after {
+        println(s"Test execution is complete")
 
+  }
 }

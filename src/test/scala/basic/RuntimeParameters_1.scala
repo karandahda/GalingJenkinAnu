@@ -12,7 +12,7 @@ class RuntimeParameters_1 extends Simulation{
       .orElse(Option(System.getProperty(propertyName)))
       .getOrElse(defaultValue)
   }
-  def userCount: Int = getProperty("USERS", "5").toInt
+  def userCount: Int = getProperty("USERS", "1").toInt
   def rampDuration: Int = getProperty("RAMPUP_DURATION", "10").toInt
   def testDuration: Int = getProperty("DURATION", "60").toInt
 

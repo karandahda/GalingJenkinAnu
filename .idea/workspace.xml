@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ed5c416-3e27-469d-a547-a9808c33f5fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/com/simulations/gatling/ComputerDBAddRemove.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/basic/ComputerDBAddRemoveRunTimeParams.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DemoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/basic/ComputerDatabase.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/basic/ComputerDatabase.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/basic/RuntimeParameters_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/basic/RuntimeParameters_1.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +45,12 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.simulations.gatling" />
       <recent name="basic" />
+      <recent name="com.simulations.gatling" />
     </key>
   </component>
   <component name="RunManager" selected="Application.GenerateToken">
@@ -134,15 +134,15 @@
     </state>
     <state x="507" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582646649415" />
     <state x="4474" y="133" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1582143171764" />
-    <state x="571" y="305" width="394" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582823857259">
+    <state x="571" y="305" width="394" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582836263583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="571" y="305" width="394" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582823857259" />
-    <state x="550" y="134" key="FileChooserDialogImpl" timestamp="1582834350430">
+    <state x="571" y="305" width="394" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582836263583" />
+    <state x="550" y="134" key="FileChooserDialogImpl" timestamp="1582902510246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582834350430" />
-    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582732693075" />
+    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582840094331" />
+    <state x="550" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582902510246" />
     <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1582826109356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -167,10 +167,10 @@
     <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582826109356" />
     <state width="912" height="336" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1582819172775" />
     <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582743798782" />
-    <state x="250" y="0" key="SettingsEditor" timestamp="1581616628280">
+    <state x="250" y="0" key="SettingsEditor" timestamp="1582837441288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="250" y="0" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1581616628280" />
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1582837441288" />
     <state x="155" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1582646629033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
